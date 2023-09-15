@@ -1,5 +1,5 @@
 ### Secrets ###
-resources/secrets/
+resources/secrets/*
 
 HELP.md
 .gradle
